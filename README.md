@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapunta&layout=compact&theme=chartreuse-dark">
+  <img width="300" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XMod-04&layout=compact&theme=chartreuse-dark">
 </p>
 
 
