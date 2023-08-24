@@ -1,5 +1,5 @@
 <h3 align="center">
-  #Hello Worlds!<br/>I'm XMod
+  Hello Worlds!<br/>I'm XMod
 </h3>
 
 <p align="center">
