@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=XMod-04&theme=monokai&row=1&column=5&no-frame=true'
+  <img width="auto" height="auto" src='https://github-profile-trophy.vercel.app/?username=brutalX-04&theme=monokai&row=1&column=5&no-frame=true'
 </p>
 
 <h3 align="center">
